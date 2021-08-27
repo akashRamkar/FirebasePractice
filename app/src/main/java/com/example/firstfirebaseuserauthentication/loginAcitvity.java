@@ -50,7 +50,7 @@ FirebaseAuth mAuth;
 
 
     }
-
+    //logout method
     public void logoutUser(View view) {
         mAuth.signOut();
         startActivity(new Intent(loginAcitvity.this,MainActivity.class));
