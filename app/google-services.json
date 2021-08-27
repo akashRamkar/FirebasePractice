@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655227811715",
+    "project_id": "firstfbuserauthentication",
+    "storage_bucket": "firstfbuserauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655227811715:android:5bbc7bbf5725e9a671e8b6",
+        "android_client_info": {
+          "package_name": "com.example.firstfirebaseuserauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655227811715-pdanpu0rn308d8koucr4pskntmtvjijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vooEkL5epvOUBUo7UuH9l0JbRciCX8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655227811715-pdanpu0rn308d8koucr4pskntmtvjijo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
